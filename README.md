@@ -1,4 +1,4 @@
-# VISA Web Application
+## VISA Web Application
 
 This project contains the source code for the Web Application of the VISA platform.
 
